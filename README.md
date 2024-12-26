@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=suqi776&theme=radical&hide_border=%E5%81%87&locale=zh_Hans&short_numbers=%E5%81%87)](https://git.io/streak-stats)
+
 <!--
 **suqi776/suqi776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
